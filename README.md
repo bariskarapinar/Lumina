@@ -32,8 +32,7 @@ This isn't just a habit tracker; it's a **living UI showcase** designed to provi
 </p>
 
 <p align="center">
-  <img src="
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/2983f6eb-daf1-4969-a04f-bfad45541176" width="24%">
+  <img src="https://github.com/user-attachments/assets/2983f6eb-daf1-4969-a04f-bfad45541176" width="24%">
   <img src="" width="24%">
   <img src="" width="24%">
 </p>
