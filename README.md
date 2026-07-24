@@ -17,7 +17,11 @@ This isn't just a habit tracker; it's a **living UI showcase** designed to provi
 
 ## 📸 Visual Showcase
 
-
+<p align="center">
+  <img src="" width="24%">
+  <img src="" width="24%">
+  <img src="" width="24%">
+</p>
 
 
 ---
