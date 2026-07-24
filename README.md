@@ -18,7 +18,7 @@ This isn't just a habit tracker; it's a **living UI showcase** designed to provi
 ## 📸 Visual Showcase
 " />
 <img width="1080" height="2220" alt="image" src="" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/90611b7b-bca2-4319-982d-788deb44a0fa" />
+<img width="1080" height="2220" alt="image" src="" />
 
 
 <img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/86fcec80-18f6-4bf1-90e9-2b03f0400f81" />
@@ -34,7 +34,7 @@ This isn't just a habit tracker; it's a **living UI showcase** designed to provi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2983f6eb-daf1-4969-a04f-bfad45541176" width="24%">
   <img src="https://github.com/user-attachments/assets/635bef67-b0bb-41d6-853b-a393b1dcfe23" width="24%">
-  <img src="" width="24%">
+  <img src="https://github.com/user-attachments/assets/90611b7b-bca2-4319-982d-788deb44a0fa" width="24%">
 </p>
 
 <p align="center">
