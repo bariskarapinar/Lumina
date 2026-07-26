@@ -17,8 +17,23 @@ This isn't just a habit tracker; it's a **living UI showcase** designed to provi
 
 ## 📸 Visual Showcase
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6300228e-e899-4a8a-a1ba-9e9f4f3d1b30" width="24%">
+  <img src="https://github.com/user-attachments/assets/5b626430-0b79-4667-a308-7b41b406844e" width="24%">
+  <img src="https://github.com/user-attachments/assets/a7029171-d775-46e2-a2ca-5ab184981a74" width="24%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2983f6eb-daf1-4969-a04f-bfad45541176" width="24%">
+  <img src="https://github.com/user-attachments/assets/635bef67-b0bb-41d6-853b-a393b1dcfe23" width="24%">
+  <img src="https://github.com/user-attachments/assets/90611b7b-bca2-4319-982d-788deb44a0fa" width="24%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86fcec80-18f6-4bf1-90e9-2b03f0400f81" width="24%">
+  <img src="https://github.com/user-attachments/assets/8eadede0-b320-4824-bc41-9416217312d3" width="24%">
+  <img src="https://github.com/user-attachments/assets/5b0cb2cb-3968-45f7-b829-505022b3d92b" width="24%">
+</p>
 
 ---
 
